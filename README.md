@@ -14,7 +14,7 @@ The Bitmap class provides methods for loading and saving images from files, as w
 
 ## How to compile
 
-The folder contains the .sln of my code. In the Visual Studio project file, there are 2 pictures at bitmap format (.bmp) in « debug » folder (coco.bmp & lena.bmp). All the images that we want to modify should be in this folder, we also have to be sure that they are not « read-only ».
+The folder contains the main file (.sln) of my code. In the Visual Studio project file, there are 2 pictures at bitmap format (.bmp) in « debug » folder : /FinalProject/FinalProject/bin/Debug/ . All the images that we want to modify should be in this folder, we also have to be sure that they are not « read-only ».
 
 To compile, we can execute "FinalProject.exe" in the Debug folder. A menu appears in the console with a little interface where we can type numbers to select a picture and apply stuff to it. 
 

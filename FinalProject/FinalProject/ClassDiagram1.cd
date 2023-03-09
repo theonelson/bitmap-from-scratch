@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalProject.MyImage">
+    <Position X="2.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>lECAAEQACAAESBkAAgEgEAAAiAAAAgAgYAgAAQAAADA=</HashCode>
+      <FileName>MyImage.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="matrix_image" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinalProject.Pixel">
+    <Position X="6.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAgABAAIAAAAAAgCAIAAAAgAAABAAAgA=</HashCode>
+      <FileName>Pixel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Program">
+    <Position X="6.5" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

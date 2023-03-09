@@ -1,0 +1,14 @@
+C:\Users\theon\Desktop\POOFinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\theon\Desktop\POOFinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\theon\Desktop\POOFinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\theon\Desktop\POOFinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\theon\Desktop\POOFinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\theon\Desktop\POOFinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\theon\Desktop\POOFinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\theon\Desktop\code_projets\github_upload\POOFinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\theon\Desktop\code_projets\github_upload\POOFinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\theon\Desktop\code_projets\github_upload\POOFinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\theon\Desktop\code_projets\github_upload\POOFinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\theon\Desktop\code_projets\github_upload\POOFinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\theon\Desktop\code_projets\github_upload\POOFinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\theon\Desktop\code_projets\github_upload\POOFinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
